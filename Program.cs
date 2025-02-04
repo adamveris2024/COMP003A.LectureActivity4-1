@@ -1,4 +1,4 @@
-﻿// Author: 
+﻿// Author: Adam Verissimo 
 // Course: COMP003A
 // Faculty: Jonathan Cruz
 // Purpose: Calculate average grades using arrays and lists in C#
